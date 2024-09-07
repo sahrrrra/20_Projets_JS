@@ -1,7 +1,6 @@
 # Formation Udemy - 20 Projets en JavaScript
-
+Ce projet est testé avec BrowserStack 
 ## Objectif
-
 Améliorez-vous en JavaScript en codant des applications web en JS natif (vanilla).
 
 ## Cours
